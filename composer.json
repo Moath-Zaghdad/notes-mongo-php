@@ -1,0 +1,16 @@
+{
+    "name": "Moath-Zaghdad/notes-mongo-php",
+    "description": "php and mongo project to save notes",
+    "homepage": "https://github.com/Moath-Zaghdad/notes-mongo-php",
+    "type": "project",
+    "require": {
+        "mongodb/mongodb": "^1.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mo'ath Zaghdad",
+            "email": "moath.m.zaghdad@gmail.com"
+        }
+    ]
+}
